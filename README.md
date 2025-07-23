@@ -1,2 +1,2 @@
-# resource-pack
-Haven Resource Pack repository.
+# common-repository
+Haven Common repository.
